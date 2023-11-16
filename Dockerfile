@@ -1,7 +1,7 @@
 # parameters
-ARG REPO_NAME="ecen433-base"
-ARG DESCRIPTION="Base class repo for BYU ECEN 433"
-ARG MAINTAINER="Joshua Mangelson (mangelson@byu.edu)"
+ARG REPO_NAME="hpc_icp"
+ARG DESCRIPTION="ECEN 528 HPC Final Project Repo"
+ARG MAINTAINER="Chad S, Derek B"
 # Thanks to Paul Robinette for sharing these materials.
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
 ARG ICON="cube"
